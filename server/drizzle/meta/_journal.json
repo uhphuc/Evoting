@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1747906773291,
+      "tag": "0000_omniscient_the_twelve",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1747912361919,
+      "tag": "0001_motionless_eternals",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1748001141270,
+      "tag": "0002_empty_the_hood",
+      "breakpoints": true
+    }
+  ]
+}
